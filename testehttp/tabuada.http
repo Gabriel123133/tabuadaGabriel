@@ -1,0 +1,3 @@
+@url = https://orange-garbanzo-q76vgvwx5v7rh65q-3000.app.github.dev/
+
+GET {{url}}/api/v1?numero=8
